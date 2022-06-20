@@ -1,0 +1,9 @@
+RewriteEngine On
+
+#A opcionais
+#A RewriteCond %{SCRIPT_FILENAME} !-f
+#A RewriteCond %{SCRIPT_FILENAME} !-d
+#A RewriteRule ^(.*)$ index.php?url=$1 [QSA,L]
+
+#A a linha abaixo protege os diretórios
+Options -Indexes
