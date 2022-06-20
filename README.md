@@ -1,2 +1,2 @@
 # PHP
- My PHP classes and projects
+ Neste repositório estão disponíveis alguns projetos de PHP. Projetos pessoais e referentes a cursos. 
